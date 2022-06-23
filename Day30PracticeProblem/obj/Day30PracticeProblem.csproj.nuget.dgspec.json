@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milan\\source\\repos\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj": {}
+    "D:\\repos137Batch\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milan\\source\\repos\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj": {
+    "D:\\repos137Batch\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milan\\source\\repos\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj",
+        "projectUniqueName": "D:\\repos137Batch\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj",
         "projectName": "Day30PracticeProblem",
-        "projectPath": "C:\\Users\\milan\\source\\repos\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj",
+        "projectPath": "D:\\repos137Batch\\Day30PracticeProblem\\Day30PracticeProblem\\Day30PracticeProblem.csproj",
         "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milan\\source\\repos\\Day30PracticeProblem\\Day30PracticeProblem\\obj\\",
+        "outputPath": "D:\\repos137Batch\\Day30PracticeProblem\\Day30PracticeProblem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
